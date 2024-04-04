@@ -1,2 +1,2 @@
-# Test1
-Test1
+# CSE360_githubdemo
+In class demo
